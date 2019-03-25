@@ -23,17 +23,41 @@ authors:
     aubry:
       name:           Aubry
       site:           https://www.copas.coop
-      avatar:         /assets/images/1.jpg
+      avatar:         /assets/images/avatar1.jpg
       bio:            "Bonjour, je suis Aubry"
       email:          contact@copas.coop
       twitter:        https://twitter.com/aubryprieur
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    samuel:
+      name:           Samuel
+      site:           https://www.copas.coop
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "C'est Samuel"
+      email:          samuel.thyrion@copas.coop
+      twitter:        https://twitter.com/wowthemesnet
+
+    said:
+      name:           Saïd
+      site:           https://www.copas.coop
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "C'est Saïd"
+      email:          said.bechrouri@copas.coop
+      twitter:        https://twitter.com/wowthemesnet
+
+    dalila:
+      name:           Dalila
+      site:           https://www.copas.coop
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      bio:            "C'est Dalila"
+      email:          Dalila.bahmed@copas.coop
+      twitter:        https://twitter.com/wowthemesnet
+
+    gilles:
+      name:           Gilles
+      site:           https://www.copas.coop
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "C'est Gilles"
+      email:          gilles.rivet@copas.coop
       twitter:        https://twitter.com/wowthemesnet
 
 # Defaults
