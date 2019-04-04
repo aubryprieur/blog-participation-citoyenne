@@ -22,39 +22,39 @@ plugins:
 authors:
     aubry:
       name:           Aubry
-      site:           https://www.copas.coop
+      site:           http://www.copas.coop/aubry_prieur.html
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Bonjour, je suis Aubry"
-      email:          contact@copas.coop
-      twitter:        https://twitter.com/aubryprieur
+      bio:            "C'est moi"
+      email:          aubry.prieur@copas.coop
+      twitter:        https://www.linkedin.com/in/aubry-prieur
 
     samuel:
       name:           Samuel
-      site:           https://www.copas.coop
+      site:           http://www.copas.coop/samuel-thyrion.html
       avatar:         /assets/images/avatar1.jpg
       bio:            "C'est Samuel"
       email:          samuel.thyrion@copas.coop
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://www.linkedin.com/in/samuel-thyrion-1a057495
 
     said:
       name:           Saïd
-      site:           https://www.copas.coop
+      site:           http://www.copas.coop/said-bechrouri.html
       avatar:         /assets/images/avatar1.jpg
       bio:            "C'est Saïd"
       email:          said.bechrouri@copas.coop
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://www.linkedin.com/in/saïd-bechrouri-9bb4335
 
     dalila:
       name:           Dalila
-      site:           https://www.copas.coop
+      site:           http://www.copas.coop/Dalila_Bahmed.html
       avatar:         /assets/images/avatar2.jpg
       bio:            "C'est Dalila"
-      email:          Dalila.bahmed@copas.coop
-      twitter:        https://twitter.com/wowthemesnet
+      email:          dalila.bahmed@copas.coop
+      twitter:        https://www.linkedin.com/in/dalila-bahmed-348540116
 
     gilles:
       name:           Gilles
-      site:           https://www.copas.coop
+      site:           http://www.copas.coop/gilles-rivet.html
       avatar:         /assets/images/avatar1.jpg
       bio:            "C'est Gilles"
       email:          gilles.rivet@copas.coop
