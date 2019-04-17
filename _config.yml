@@ -23,7 +23,7 @@ authors:
     aubry:
       name:           Aubry
       site:           http://www.copas.coop/aubry_prieur.html
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "C'est moi"
       email:          aubry.prieur@copas.coop
       twitter:        https://www.linkedin.com/in/aubry-prieur
@@ -31,7 +31,7 @@ authors:
     samuel:
       name:           Samuel
       site:           http://www.copas.coop/samuel-thyrion.html
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "C'est Samuel"
       email:          samuel.thyrion@copas.coop
       twitter:        https://www.linkedin.com/in/samuel-thyrion-1a057495
@@ -39,7 +39,7 @@ authors:
     said:
       name:           Saïd
       site:           http://www.copas.coop/said-bechrouri.html
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "C'est Saïd"
       email:          said.bechrouri@copas.coop
       twitter:        https://www.linkedin.com/in/saïd-bechrouri-9bb4335
@@ -47,7 +47,7 @@ authors:
     dalila:
       name:           Dalila
       site:           http://www.copas.coop/Dalila_Bahmed.html
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "C'est Dalila"
       email:          dalila.bahmed@copas.coop
       twitter:        https://www.linkedin.com/in/dalila-bahmed-348540116
@@ -55,7 +55,7 @@ authors:
     gilles:
       name:           Gilles
       site:           http://www.copas.coop/gilles-rivet.html
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "C'est Gilles"
       email:          gilles.rivet@copas.coop
       twitter:        https://twitter.com/wowthemesnet
