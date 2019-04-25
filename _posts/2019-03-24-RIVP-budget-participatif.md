@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Le budget participatif de la RIVP"
-author: aubry
-categories: [ Budget participatif ]
+title:  "Budget participatif de la RIVP - bilan de deux années d'expérience"
+author: samuel
+categories: [ expertise d'usage, initiative, co-construire ]
 image: assets/images/RIVP.jpg
+tags: [featured]
 ---
 
 Après une première année d’expérimentation sur 10 sites (4400 logements) et des résultats très positifs (143 idées déposées, 56 projets soumis au vote, 14,8% de participation au vote, 39 projets lauréats pour 193 000€), la RIVP (Régie Immobilière de la Ville de Paris) relance l’expérience pour 2018 sur 4 nouveaux sites (1700 logements).
@@ -12,6 +13,6 @@ Le bailleur parisien a confié à COPAS la mise en œuvre de cette 2ème éditio
 
 Une belle mission à la confluence de nos différents métiers : conseil, accompagnement, concertation, suivi-évaluation…
 
-Pour suivre l’actualité du budget participatif 2018 : cliquez sur le lien
+[Pour suivre l’actualité du budget participatif 2018](https://budget-participatif.rivp.fr/processes_groups/2)
 
-Pour accéder aux 39 projets choisis par les locataires dans le cadre du budget participatif 2017: cliquez sur le lien
+[Pour accéder aux 39 projets choisis par les locataires dans le cadre du budget participatif 2017](https://budget-participatif.rivp.fr/processes_groups/1)
