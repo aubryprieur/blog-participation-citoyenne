@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://getsimpleform.com/messages?form_api_token=42c08439ae27e8f0cfdfd3a37509cc1e" method="POST">
+<form action="###" method="POST">
   <input type="hidden" name="redirect_to" value="https://www.participationcitoyenne.org/merci.html">
   <p class="mb-4">Merci d'envoyer un message aux membres du site "{{site.name}}". Nous vous répondrons le plus rapidement possible!</p>
   <div class="form-group row">
